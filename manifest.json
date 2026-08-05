@@ -2,7 +2,7 @@
     "name": "PWA Hello World", 
     "short_name": "PWA HW",
     "description": "App de demonstração",
-    "start_url": "/index.html",
+    "start_url": "index.html",
     "display": "standalone",
     "background_color": "#f8fafc",
     "theme_color": "#2563eb",
